@@ -33,8 +33,7 @@
     "css-mediaquery": "^0.1.2",
     "ajv": "^6.0.0",
     "eslint": "^4.12.1",
-    "winston": "^3.1.0",
-    "fsevents": "^1.2.4"
+    "winston": "^3.1.0"
   },
   "scripts": {
     "build": "webpack",
